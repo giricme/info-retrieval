@@ -1,2 +1,3 @@
 # info-retrieval
-Escapades in information retrieval.
+
+Documenting some of my doodles on Neural IR.
